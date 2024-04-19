@@ -1,0 +1,36 @@
+.header-judul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.header-judul h1 {
+  color: black;
+}
+
+.search-bar-movie {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.movie-list-table {
+  display: grid;
+}
+
+.card-movie {
+  margin-left: 30px;
+}
+
+.card-movie h1 {
+  width: 260px;
+  font-size: 30px;
+}
+.card-movie img {
+  width: 250px;
+}
